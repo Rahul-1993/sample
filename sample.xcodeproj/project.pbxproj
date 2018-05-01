@@ -15,6 +15,8 @@
 		793B33EC2098C3D700EDBFA4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 793B33EA2098C3D700EDBFA4 /* LaunchScreen.storyboard */; };
 		793B33F52098C71E00EDBFA4 /* ViewControllerAddedByJohn.swift in Sources */ = {isa = PBXBuildFile; fileRef = 793B33F32098C71E00EDBFA4 /* ViewControllerAddedByJohn.swift */; };
 		793B33F62098C71E00EDBFA4 /* ViewControllerAddedByJohn.xib in Resources */ = {isa = PBXBuildFile; fileRef = 793B33F42098C71E00EDBFA4 /* ViewControllerAddedByJohn.xib */; };
+		793B33F92098C80C00EDBFA4 /* ViewControllerByChetu.swift in Sources */ = {isa = PBXBuildFile; fileRef = 793B33F72098C80C00EDBFA4 /* ViewControllerByChetu.swift */; };
+		793B33FA2098C80C00EDBFA4 /* ViewControllerByChetu.xib in Resources */ = {isa = PBXBuildFile; fileRef = 793B33F82098C80C00EDBFA4 /* ViewControllerByChetu.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +30,8 @@
 		793B33ED2098C3D700EDBFA4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		793B33F32098C71E00EDBFA4 /* ViewControllerAddedByJohn.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerAddedByJohn.swift; sourceTree = "<group>"; };
 		793B33F42098C71E00EDBFA4 /* ViewControllerAddedByJohn.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = ViewControllerAddedByJohn.xib; sourceTree = "<group>"; };
+		793B33F72098C80C00EDBFA4 /* ViewControllerByChetu.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerByChetu.swift; sourceTree = "<group>"; };
+		793B33F82098C80C00EDBFA4 /* ViewControllerByChetu.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = ViewControllerByChetu.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +67,8 @@
 				793B33DE2098C3D600EDBFA4 /* AppDelegate.swift */,
 				793B33E02098C3D600EDBFA4 /* ViewController.swift */,
 				793B33F32098C71E00EDBFA4 /* ViewControllerAddedByJohn.swift */,
+				793B33F72098C80C00EDBFA4 /* ViewControllerByChetu.swift */,
+				793B33F82098C80C00EDBFA4 /* ViewControllerByChetu.xib */,
 				793B33F42098C71E00EDBFA4 /* ViewControllerAddedByJohn.xib */,
 				793B33E22098C3D600EDBFA4 /* Main.storyboard */,
 				793B33E82098C3D700EDBFA4 /* Assets.xcassets */,
@@ -134,6 +140,7 @@
 				793B33EC2098C3D700EDBFA4 /* LaunchScreen.storyboard in Resources */,
 				793B33F62098C71E00EDBFA4 /* ViewControllerAddedByJohn.xib in Resources */,
 				793B33E92098C3D700EDBFA4 /* Assets.xcassets in Resources */,
+				793B33FA2098C80C00EDBFA4 /* ViewControllerByChetu.xib in Resources */,
 				793B33E42098C3D600EDBFA4 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -147,6 +154,7 @@
 			files = (
 				793B33E12098C3D600EDBFA4 /* ViewController.swift in Sources */,
 				793B33F52098C71E00EDBFA4 /* ViewControllerAddedByJohn.swift in Sources */,
+				793B33F92098C80C00EDBFA4 /* ViewControllerByChetu.swift in Sources */,
 				793B33DF2098C3D600EDBFA4 /* AppDelegate.swift in Sources */,
 				793B33E72098C3D600EDBFA4 /* sample.xcdatamodeld in Sources */,
 			);
