@@ -16,6 +16,9 @@ class ViewController: UIViewController {
         
         
         // viewDidLoad is always going to be the first thing to run!
+        
+        
+        //John is making a few changes on develop branch, lets call this this first change!
     }
 
     override func didReceiveMemoryWarning() {
