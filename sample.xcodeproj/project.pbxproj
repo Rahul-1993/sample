@@ -13,6 +13,8 @@
 		793B33E72098C3D600EDBFA4 /* sample.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 793B33E52098C3D600EDBFA4 /* sample.xcdatamodeld */; };
 		793B33E92098C3D700EDBFA4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 793B33E82098C3D700EDBFA4 /* Assets.xcassets */; };
 		793B33EC2098C3D700EDBFA4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 793B33EA2098C3D700EDBFA4 /* LaunchScreen.storyboard */; };
+		793B33F52098C71E00EDBFA4 /* ViewControllerAddedByJohn.swift in Sources */ = {isa = PBXBuildFile; fileRef = 793B33F32098C71E00EDBFA4 /* ViewControllerAddedByJohn.swift */; };
+		793B33F62098C71E00EDBFA4 /* ViewControllerAddedByJohn.xib in Resources */ = {isa = PBXBuildFile; fileRef = 793B33F42098C71E00EDBFA4 /* ViewControllerAddedByJohn.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		793B33E82098C3D700EDBFA4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		793B33EB2098C3D700EDBFA4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		793B33ED2098C3D700EDBFA4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		793B33F32098C71E00EDBFA4 /* ViewControllerAddedByJohn.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerAddedByJohn.swift; sourceTree = "<group>"; };
+		793B33F42098C71E00EDBFA4 /* ViewControllerAddedByJohn.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = ViewControllerAddedByJohn.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +62,8 @@
 			children = (
 				793B33DE2098C3D600EDBFA4 /* AppDelegate.swift */,
 				793B33E02098C3D600EDBFA4 /* ViewController.swift */,
+				793B33F32098C71E00EDBFA4 /* ViewControllerAddedByJohn.swift */,
+				793B33F42098C71E00EDBFA4 /* ViewControllerAddedByJohn.xib */,
 				793B33E22098C3D600EDBFA4 /* Main.storyboard */,
 				793B33E82098C3D700EDBFA4 /* Assets.xcassets */,
 				793B33EA2098C3D700EDBFA4 /* LaunchScreen.storyboard */,
@@ -126,6 +132,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				793B33EC2098C3D700EDBFA4 /* LaunchScreen.storyboard in Resources */,
+				793B33F62098C71E00EDBFA4 /* ViewControllerAddedByJohn.xib in Resources */,
 				793B33E92098C3D700EDBFA4 /* Assets.xcassets in Resources */,
 				793B33E42098C3D600EDBFA4 /* Main.storyboard in Resources */,
 			);
@@ -139,6 +146,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				793B33E12098C3D600EDBFA4 /* ViewController.swift in Sources */,
+				793B33F52098C71E00EDBFA4 /* ViewControllerAddedByJohn.swift in Sources */,
 				793B33DF2098C3D600EDBFA4 /* AppDelegate.swift in Sources */,
 				793B33E72098C3D600EDBFA4 /* sample.xcdatamodeld in Sources */,
 			);
