@@ -17,6 +17,8 @@ class ViewControllerAddedByJohn: UIViewController {
         
         
         //A new view controller with a xib
+        
+        print(justSayingHello(name: "Doesnt matter, its been hardcoded!"))
     }
 
     override func didReceiveMemoryWarning() {
@@ -34,5 +36,11 @@ class ViewControllerAddedByJohn: UIViewController {
         // Pass the selected object to the new view controller.
     }
     */
+    
+    
+    func justSayingHello(name : String) -> String {
+        let name = "Rahul"
+        return name
+    }
 
 }
