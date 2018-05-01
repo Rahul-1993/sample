@@ -19,6 +19,8 @@ class ViewControllerAddedByJohn: UIViewController {
         //A new view controller with a xib
         
         print(justSayingHello(name: "Doesnt matter, its been hardcoded!"))
+        
+        print(notherFunction(num: 5))
     }
 
     override func didReceiveMemoryWarning() {
@@ -41,6 +43,11 @@ class ViewControllerAddedByJohn: UIViewController {
     func justSayingHello(name : String) -> String {
         let name = "Rahul"
         return name
+    }
+    
+    func notherFunction(num : Int) -> Int {
+        let sum = num + 1
+        return sum
     }
 
 }
